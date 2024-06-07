@@ -5,11 +5,11 @@ Hi! My name is Audra
 Software Developer
 ------------------
 
-I’ve been learning code for the past decade after discovering a personal obsession with digging into programs, settings, and design options to figure out how things work and how to make them do that one cool thing. Backend development is my happy place, and Java has been my copilot. I’ve dipped into full stack development to make everything work together, and through every project, I’ve added some new language or tech to my toolbelt.
+I’ve been learning code for the past decade after discovering a personal obsession with digging into programs, settings, and design options to figure out how things work and how to make them do that one cool thing. Backend development is my happy place, and Java has been my copilot. I’ve dipped into full stack development to make everything work together. Through every project, I’ve added some new language or tech to my toolbelt.
 
 *   🌍  I'm based in Colorado
 *   ✉️  You can contact me at  <a href="https://discord.com/users/378700670745706496"><img src="images/small_logo_blurple_RGB.png" alt="Discord-logo" width="100" height="20"></a>
-*   🚀  I'm currently working on [Savvato Software Apps](http://github.com/mrsbluerose/tribe-app-backend)
+*   🚀  I'm currently working on [Savvato Software Apps](https://github.com/savvato-software)
 *   ⚡  I'll be an expert at everything when I stop learning - estimated timeframe: never
 
 Skills 
