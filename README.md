@@ -8,7 +8,7 @@ I’ve been learning code for the past decade after discovering a personal obses
 
 *   🌍  I'm based in Colorado
 *   ✉️  You can contact me at &nbsp;<a href="https://www.linkedin.com/in/audra-wathen/"><img src="images/LI-In-Bug.png" alt="LinkedIn-logo" width="25" height="20"></a>&nbsp;<a href="https://discord.com/users/378700670745706496"><img src="images/icon_clyde_blurple_RGB.png" alt="Discord-logo" width="30" height="20"></a>
-*   🚀  I'm currently working on [Savvato Software Apps](https://github.com/savvato-software)
+*   🚀  I'm currently working on [Savvato Software Apps](https://github.com/savvato-software) and [MyCinemaList](https://github.com/users/mrsbluerose/projects/2/views/3)
 *   ⚡  I'll be an expert at everything when I stop learning - estimated timeframe: never
 
 My Skills 
